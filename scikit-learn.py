@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
 Created on Tue Oct  6 16:12:36 2020
-
 @author: Bridget_PC
+Practice using scrikit-learn for PCA
 """
 
 import numpy as np

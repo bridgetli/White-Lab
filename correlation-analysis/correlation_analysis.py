@@ -1,5 +1,5 @@
 """
-    correlation_matrix.py
+    correlation_analysis.py
     11/10/2020
     @author: Bridget Li
     Create matrix of ρ values for each phosphopeptide and immune cell. Make a heatmap

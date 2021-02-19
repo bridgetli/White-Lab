@@ -1,7 +1,8 @@
 """
-zscore_phospho_data.py
+zscore_phospho.py
 11/04/2020
 @author: Bridget Li
+Normalize data by calculating z-scores for each phosphopeptide. Testing on fake data.
 """
 
 # Run on Spyder IDE

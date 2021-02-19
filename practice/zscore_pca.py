@@ -1,7 +1,7 @@
 """
-    test.py
+    zscore_pca.py
     10/06/2020
-    Calculating the z-scores for each sample.
+    Calculating the z-scores for each sample in Table S5A. Run PCA on dataset.
 """
 
 # Run on Spyder IDE

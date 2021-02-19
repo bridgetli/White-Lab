@@ -1,8 +1,8 @@
 """
-    pca_plot.py
+    pca_plot_heatmap.py
     10/06/2020
-    Calculate the z-scores for each sample. Run PCA on samples and plot to show
-    patterns. Create heatmaps.
+    Calculate the z-scores for each sample (immune cell and peptide).
+    Run PCA on samples and plot to show patterns. Create heatmaps.
 """
 
 # Run on Spyder IDE

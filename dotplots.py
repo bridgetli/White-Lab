@@ -2,7 +2,7 @@
     dotplots.py
     01/17/2020
     @author: Bridget Li
-    From matrix of r values, pick top 10 highest and top 10 lowest values. Create
+    From matrix of ρ values, pick top 10 highest and top 10 lowest values. Create
     dotplots to show correlation. Color by hot vs. cold tumor.
 """
 
